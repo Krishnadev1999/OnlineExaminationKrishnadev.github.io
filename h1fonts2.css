@@ -1,0 +1,42 @@
+
+/*.container{
+
+	background-image: url('../images/rocket.gif?v=1.4'), url('../images/independence_pic.jpg?v=1.3');
+
+}*/
+.container{
+
+	background-image: url('../images/homescreen1.jpg?v=1.3');
+
+}
+/*.container{
+
+	background-image: url('../images/holi-banner.png?v=1.3');
+
+}*/
+.contactsprite{
+		background: url('../images/featuresprite.png');
+}
+.prcngcntnr{
+	background: url('../images/pricing-banner.jpg');
+}
+.sprite{
+	background:  url(../images/sprite.png);
+}
+.sprite3, .contactsprite, .support, .supportinr{
+	background: url('../images/sprite3.png')
+}
+
+.supportinr{
+	background: #fff url('../images/sprite3.png')
+}
+.insidepagecontainer {
+	background: url('../images/featuresscreen/features_banner.jpg');
+}
+
+.aboutuscntnr{
+	background: url('../images/aboutus.png');
+}
+.supportcntnr{
+		background: url('../images/supportbg.jpg');
+}
